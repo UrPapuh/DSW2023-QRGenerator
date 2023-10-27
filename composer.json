@@ -1,0 +1,19 @@
+{
+    "name": "urpapuh/qr-generator",
+    "description": "Generador de codigos QR mediante un formulario",
+    "type": "project",
+    "require": {
+        "endroid/qr-code": "^5.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "UrPapuh\\QrGenerator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "UrPapuh",
+            "email": "andrewgr073@gmail.com"
+        }
+    ]
+}
